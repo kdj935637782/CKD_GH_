@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetLayer(cad)", "SetLayer(cad)\SetLayer(cad).csproj", "{B9103B82-8EA5-48C2-942D-5A31AAE823ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9103B82-8EA5-48C2-942D-5A31AAE823ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9103B82-8EA5-48C2-942D-5A31AAE823ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9103B82-8EA5-48C2-942D-5A31AAE823ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9103B82-8EA5-48C2-942D-5A31AAE823ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B64BB0AE-BF84-432A-AE29-A921B25DF7F6}
+	EndGlobalSection
+EndGlobal
